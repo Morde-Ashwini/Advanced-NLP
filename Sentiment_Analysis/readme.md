@@ -13,7 +13,7 @@ https://www.kaggle.com/datasets/kazanova/sentiment140?resource=download&select=t
 
 # Installation & Usage
 
-1)Copy this link https://colab.research.google.com/drive/1isGY0_RlnbhtSC9t1MmMJ48X4c008SHE?usp=sharing and paste it on your browser.
+1)Copy this link https://colab.research.google.com/drive/1UTm7U31gx9JVo1ixXlXANDLpGuRnzlS6?authuser=1#scrollTo=hSEyUJUdPobn and paste it on your browser.
 2)A google colab notebook will open.
 3)Sign in if necessary
 4)Once it is open Click on ->> Runtime ->> Run All
